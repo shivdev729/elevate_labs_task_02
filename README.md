@@ -1,13 +1,12 @@
-### Submitted by
-Shivang Shukla
+#### Submitted by Shivang Shukla
 
 # 📄 Task 2 of the Elevate Labs Cybersecurity Internship
 # Phishing Email Analysis Report
 
 
-## Sample subject - _Claim Your Free ARB Airdrop from Binance!_
-## Sample source - _https://github.com/rf-peixoto/phishing_pot_
-## Sample name - _sample-1006.eml_
+### Sample subject - _Claim Your Free ARB Airdrop from Binance!_
+### Sample source - _https://github.com/rf-peixoto/phishing_pot_
+### Sample name - _sample-1006.eml_
 ![Sample phishing mail](https://github.com/shivdev729/elevate_labs_task_02/blob/main/p1.JPG)
 ---
 
@@ -23,6 +22,7 @@ Shivang Shukla
   - **No DMARC record found** for the sending domain.
   - SPF/DKIM status is likely **failing or absent**, as headers are spoofed and don't match a legitimate Binance mail server.
 - **Phishing Indicator**: Missing **DMARC** (Domain-based Message Authentication, Reporting, and Conformance) is a strong sign the domain is not properly secured and may be forged.
+  
 ![Headers#1](https://github.com/shivdev729/elevate_labs_task_02/blob/main/p6.JPG)
 ![Headers#2](https://github.com/shivdev729/elevate_labs_task_02/blob/main/p7.JPG)
 ![Headers#3](https://github.com/shivdev729/elevate_labs_task_02/blob/main/p8.JPG)
@@ -33,6 +33,8 @@ Shivang Shukla
 - **Phishing Link**: https://click.pstmrk.it/3s/sweedbuy.com%2Fblog%2F/ahc/k_CuAQ/AQ/44a54f89-410d-4729-b21c-32c30d6eb945/1/qOoKiS9V1s?/23687658rodrigofp
 - The **actual URL or joining link is most probably a phishing link with the domain sweedbuy indicating a shopping website**, however, currently the target site is  **unavailable**.
 - **Phishing Indicator**: This is a common **spoofing technique** to evade trick recipients into visiting malicious sites.
+
+  
 ![Suspicious Links](https://github.com/shivdev729/elevate_labs_task_02/blob/main/p4.JPG)
 ---
 
@@ -42,6 +44,7 @@ Shivang Shukla
   - “Limited-time airdrop”
   - “First come, first served”
 - **Phishing Indicator**: Use of urgency and exclusivity to prompt impulsive behavior.
+
 ![Urgent language](https://github.com/shivdev729/elevate_labs_task_02/blob/main/p3.JPG)
 ---
 
@@ -51,6 +54,8 @@ Shivang Shukla
   - “el‌‌‌‌‌‌i‌‌‌‌‌‌gib‌‌‌‌‌‌i lity” instead of “eligibility”
   - “a‌‌p‌‌p Ιy” instead of “apply” (note the use of Greek capital iota `Ι`)
 - **Phishing Indicator**: These formatting tricks are designed to **evade filters** and confuse human readers.
+
+  
 ![Spelling Issues](https://github.com/shivdev729/elevate_labs_task_02/blob/main/p2.JPG)
 ---
 
@@ -58,6 +63,8 @@ Shivang Shukla
 - Brand Impersonated: **Binance**
 - **Spoofing Method**: Use of visually similar but invalid characters to imitate real branding.
 - **Phishing Indicator**: Homoglyphs and similar tactics are standard in phishing schemes involving known companies.
+
+
 ![Spoofed branding](https://github.com/shivdev729/elevate_labs_task_02/blob/main/p5.JPG)
 ---
 
