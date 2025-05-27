@@ -24,7 +24,7 @@ _Claim Your Free ARB Airdrop from Binance!_
 
 ## 3. Suspicious Links
 - **Phishing Link**: https://click.pstmrk.it/3s/sweedbuy.com%2Fblog%2F/ahc/k_CuAQ/AQ/44a54f89-410d-4729-b21c-32c30d6eb945/1/qOoKiS9V1s?/23687658rodrigofp
-- The **actual URL or joining link was most probably a phishing link with the domain sweedbuy indicating a shopping website**, and currently **unavailable**.
+- The **actual URL or joining link is most probably a phishing link with the domain sweedbuy indicating a shopping website**, however, currently the target site is  **unavailable**.
 - **Phishing Indicator**: This is a common **spoofing technique** to evade trick recipients into visiting malicious sites.
 
 ---
