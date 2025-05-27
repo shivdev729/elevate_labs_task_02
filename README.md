@@ -1,12 +1,11 @@
-#### Submitted by Shivang Shukla
-
 # 📄 Task 2 of the Elevate Labs Cybersecurity Internship
 # Phishing Email Analysis Report
 
 
-### Sample subject - _Claim Your Free ARB Airdrop from Binance!_
-### Sample source - _https://github.com/rf-peixoto/phishing_pot_
-### Sample name - _sample-1006.eml_
+__Sample subject__ - _Claim Your Free ARB Airdrop from Binance!_
+__Sample source__ - _https://github.com/rf-peixoto/phishing_pot_
+__Sample name__ - _sample-1006.eml_
+
 ![Sample phishing mail](https://github.com/shivdev729/elevate_labs_task_02/blob/main/p1.JPG)
 ---
 
