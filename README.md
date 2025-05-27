@@ -1,7 +1,9 @@
-# elevate_labs_task_02
-Task 2 of the Elevate Labs Cybersecurity Internship
+### Submitted by
+Shivang Shukla
 
-# 📄 Phishing Email Analysis Report
+# 📄 Task 2 of the Elevate Labs Cybersecurity Internship
+# Phishing Email Analysis Report
+
 
 ## Sample subject - _Claim Your Free ARB Airdrop from Binance!_
 ## Sample source - _https://github.com/rf-peixoto/phishing_pot_
